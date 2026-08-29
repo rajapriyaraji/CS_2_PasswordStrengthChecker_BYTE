@@ -1,0 +1,21 @@
+PASSWORD STRENGTH CHECKER - TEST CASES
+
+Test Case 1
+Password: hello
+Expected Result: Weak
+
+Test Case 2
+Password: Hello123
+Expected Result: Moderate
+
+Test Case 3
+Password: Hello@12345
+Expected Result: Strong
+
+Test Case 4
+Password: 12345678
+Expected Result: Weak
+
+Test Case 5
+Password: Secure@2026
+Expected Result: Strong
